@@ -1,42 +1,83 @@
-# Retail Sales Analytics Dashboard | Tableau
+# Manufacturing Quality Control Dashboard | Power BI
 
 ## Overview
 
-The Retail Sales Analytics Dashboard is a Business Intelligence project developed using Tableau to analyze retail sales performance, profitability, customer purchasing behavior, and geographic business trends.
+The Manufacturing Quality Control Dashboard is a Business Intelligence project developed using Microsoft Power BI to analyze and monitor manufacturing operations. The dashboard transforms raw production data into meaningful visual insights, enabling efficient tracking of production output, machine performance, defect rates, downtime, and overall manufacturing quality.
 
-The project transforms transactional retail data into interactive visualizations and dashboards, enabling efficient analysis of sales performance, profit distribution, customer activity, and city-wise business growth.
+The project demonstrates how Business Intelligence tools can support data-driven decision-making by identifying operational bottlenecks, quality issues, and performance improvement opportunities within manufacturing environments.
+
+---
+
+## Problem Statement
+
+Manufacturing industries generate large volumes of operational data related to production, quality control, machine utilization, and downtime. Traditional spreadsheet-based analysis makes it difficult to identify trends, monitor performance, and detect quality issues in a timely manner.
+
+This project addresses these challenges by building interactive dashboards that provide a centralized view of manufacturing quality metrics and operational performance.
+
+---
+
+## Objectives
+
+* Analyze manufacturing quality control data using Microsoft Power BI.
+* Monitor key production and quality performance indicators.
+* Evaluate machine-wise production efficiency and downtime.
+* Identify factors affecting product quality.
+* Create interactive dashboards for business intelligence reporting.
+* Enable faster and more informed decision-making.
 
 ---
 
 ## Technologies Used
 
-* Tableau
+* Microsoft Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
 * Microsoft Excel
-* Data Visualization
-* Business Intelligence
+* Data Visualization Techniques
 
 ---
 
 ## Key Features
 
-* Sales Performance Analysis
-* Profitability Tracking
-* Customer Purchase Analysis
-* City-wise Business Insights
-* Geographic Sales Visualization
-* Time-based Trend Analysis
-* Interactive Filters and Drill-downs
+### Production Monitoring
+
+Track overall manufacturing output and production performance across multiple operational units.
+
+### Quality Analysis
+
+Analyze defect rates and identify machines or processes contributing to quality issues.
+
+### Machine Performance Tracking
+
+Evaluate machine-wise efficiency, production output, and operational effectiveness.
+
+### Downtime Analysis
+
+Monitor machine downtime and identify opportunities to improve utilization and productivity.
+
+### Interactive Dashboards
+
+Use slicers, filters, and drill-down functionality to perform detailed data exploration.
+
+### Data-Driven Insights
+
+Generate actionable insights that support operational improvements and quality management.
 
 ---
 
-## Dashboard Visualizations
+## Dashboard Components
 
-* Customer vs Price
-* City vs Price vs Date
-* Profit vs City
-* Price & Profit vs City
-* Price vs Profit
-* Customer vs Timestamp
+The dashboard includes:
+
+* Production Output KPIs
+* Defect Rate Analysis
+* Machine-wise Performance Metrics
+* Downtime Monitoring
+* Manufacturing Quality Indicators
+* Country-wise Analysis
+* Trend Analysis Charts
+* Interactive Filters and Slicers
+* Comparative Performance Visualizations
 
 ---
 
@@ -45,37 +86,69 @@ The project transforms transactional retail data into interactive visualizations
 * Business Intelligence
 * Data Visualization
 * Dashboard Design
-* Retail Analytics
-* Trend Analysis
-* Customer Analytics
-* Geographic Analysis
-* Interactive Reporting
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* KPI Development
+* DAX Calculations
+* Power Query
+* Analytical Thinking
+* Reporting and Insights Generation
 
 ---
 
-## Business Insights
+## Business Impact
 
-* Identified high-value customers and purchasing patterns.
-* Compared sales and profit performance across cities.
-* Analyzed business trends using time-based visualizations.
-* Evaluated geographic sales distribution and profitability.
+The dashboard helps manufacturing stakeholders:
+
+* Identify quality-related issues quickly.
+* Monitor production efficiency.
+* Reduce manual reporting efforts.
+* Improve operational visibility.
+* Support data-driven decision-making.
+* Enhance manufacturing performance monitoring.
+
+---
+
+## Project Highlights
+
+* Developed a complete Manufacturing Quality Control Dashboard using Microsoft Power BI.
+* Designed interactive reports and visualizations for production and quality analysis.
+* Implemented data transformation and modeling using Power Query and DAX.
+* Built machine-level and production-level analytical dashboards.
+* Created user-friendly visualizations for monitoring manufacturing KPIs.
 
 ---
 
 ## Repository Contents
 
 ```text
-Retail-Sales-Analytics/
+Manufacturing-Quality-Control-PowerBI/
 │
+├── Manufacturing_Quality_Control.pbix
+├── Manufacturing_Quality_Control_Report.pdf
 ├── README.md
-├── Retail_Company.twb
+
 ```
+
+##
 
 ---
 
 ## Dataset Availability
 
-The original Excel dataset used during dashboard development is no longer available. This repository contains the Tableau workbook structure, dashboard configurations, and project documentation for portfolio and learning purposes.
+The original dataset used for this academic project is not included in this repository. The dashboard, report, visualizations, and project documentation are provided for demonstration and portfolio purposes.
+
+---
+
+## Future Enhancements
+
+* Real-time manufacturing data integration
+* Predictive quality analytics
+* Machine failure prediction
+* AI-based anomaly detection
+* Automated reporting and alerts
+* Cloud-based dashboard deployment
 
 ---
 
@@ -83,7 +156,7 @@ The original Excel dataset used during dashboard development is no longer availa
 
 **Devansh Savla**
 
-Business Intelligence | Tableau | Data Analytics
+Business Intelligence | Data Analytics | Power BI
 
 ---
 
